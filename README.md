@@ -1,6 +1,4 @@
-[![Shun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShunNishizawa)](https://github.com/ShunNishizawa/github-readme-stats)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
